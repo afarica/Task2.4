@@ -1,3 +1,7 @@
+# A timestamp is three numbers: a number of hours, minutes and seconds.
+# Given two timestamps, calculate how many seconds is between them. The
+# moment of the first timestamp occurred before the moment of the second
+# timestamp. (6, 1, 30, 6, 2, 10 result 40 sec.)
 a=int(input("Enter the hour:"))
 b=int(input("Enter the minute:"))
 c=int(input("Enter th second"))
